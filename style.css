@@ -1,0 +1,10 @@
+h1 {
+    color: rgb(27, 95, 255);
+    font-size: 2rem;
+    text-align: center;
+    margin: 3rem 1rem;
+    font-family: "검은고딕";
+}
+body {
+    background-color:rgb(177, 195, 255)
+}
